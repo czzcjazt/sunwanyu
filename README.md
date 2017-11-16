@@ -1,2 +1,2 @@
 # sunwanyu
-this repository used for learning.
+this repository is used for learning.
